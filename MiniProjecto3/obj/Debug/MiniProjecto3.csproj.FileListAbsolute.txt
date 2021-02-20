@@ -1,0 +1,17 @@
+C:\Users\Lucas\Desktop\MiniProjecto3\MiniProjecto3\bin\Debug\MiniProjecto3.exe.config
+C:\Users\Lucas\Desktop\MiniProjecto3\MiniProjecto3\bin\Debug\MiniProjecto3.exe
+C:\Users\Lucas\Desktop\MiniProjecto3\MiniProjecto3\bin\Debug\MiniProjecto3.pdb
+C:\Users\Lucas\Desktop\MiniProjecto3\MiniProjecto3\obj\Debug\MiniProjecto3.exe
+C:\Users\Lucas\Desktop\MiniProjecto3\MiniProjecto3\obj\Debug\MiniProjecto3.pdb
+C:\Users\Lucas\Downloads\MiniProjecto3\MiniProjecto3\bin\Debug\MiniProjecto3.exe.config
+C:\Users\Lucas\Downloads\MiniProjecto3\MiniProjecto3\obj\Debug\MiniProjecto3.exe
+C:\Users\Lucas\Downloads\MiniProjecto3\MiniProjecto3\obj\Debug\MiniProjecto3.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Downloads\MiniProjecto3\MiniProjecto3\bin\Debug\MiniProjecto3.exe
+C:\Users\Lucas\Downloads\MiniProjecto3\MiniProjecto3\bin\Debug\MiniProjecto3.pdb
+C:\Users\Lucas\Downloads\MiniProjecto3\MiniProjecto3\obj\Debug\MiniProjecto3.pdb
+C:\Users\Alex\Desktop\MiniProjecto3\MiniProjecto3\bin\Debug\MiniProjecto3.exe.config
+C:\Users\Alex\Desktop\MiniProjecto3\MiniProjecto3\obj\Debug\MiniProjecto3.exe
+C:\Users\Alex\Desktop\MiniProjecto3\MiniProjecto3\obj\Debug\MiniProjecto3.pdb
+C:\Users\Alex\Desktop\MiniProjecto3\MiniProjecto3\obj\Debug\MiniProjecto3.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\MiniProjecto3\MiniProjecto3\bin\Debug\MiniProjecto3.exe
+C:\Users\Alex\Desktop\MiniProjecto3\MiniProjecto3\bin\Debug\MiniProjecto3.pdb
